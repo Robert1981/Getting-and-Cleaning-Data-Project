@@ -1,6 +1,5 @@
 # Getting and Cleaning Data
-Course Project
-April 24, 2015
+Course Project - April 24, 2015
 
 
 ## The goal with this project 
